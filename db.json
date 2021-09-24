@@ -1,13 +1,20 @@
 {
   "login":
-    {
-      "id": 1,
+     {
       "usuario": "05942138788",
       "senha": "Mudar@123"
-    },
+     },
   "recoverPassword": 
+     {
+      "email": "sidraque@toodoo.com"
+      "cpf": "11111111111",
+      "dataNascimento": "15/01/2000"
+     }
+  "register":
     {
       "cpf": "11111111111",
-      "senha": "15/01/2000"
+      "dataNascimento": "01/01/2000",
+      "email": "email@email.com",
+      "senha": "123456"
     }
 }
