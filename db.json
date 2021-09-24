@@ -6,10 +6,10 @@
      },
   "recoverPassword": 
      {
-      "email": "sidraque@toodoo.com"
+      "email": "sidraque@toodoo.com",
       "cpf": "11111111111",
       "dataNascimento": "15/01/2000"
-     }
+     },
   "register":
     {
       "cpf": "11111111111",
