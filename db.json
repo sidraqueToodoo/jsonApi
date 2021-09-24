@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "login":
     {
-      "id": 1,
-      "title": "hello"
+      "usuario": "05942138788",
+      "senha": "Mudar@123"
+    },
+  "recoverPassword": 
+    {
+      "cpf": "11111111111",
+      "senha": "15/01/2000"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
