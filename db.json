@@ -1,12 +1,10 @@
 {
   "login":
-    [
      {
       "id": 1,
       "usuario": "05942138788",
       "senha": "Mudar@123"
-     }
-    ],
+     },
   "recoverPassword": 
      {
       "email": "sidraque@toodoo.com",
