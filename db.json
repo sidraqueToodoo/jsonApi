@@ -13,12 +13,11 @@
   "register":
   [
     {
-      
       "id": 1,
       "cpf": "11111111111",
       "dataNascimento": "01/01/2000",
       "email": "email@email.com",
       "senha": "123456"
-    },
+    }
   ]
 }
