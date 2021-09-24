@@ -13,6 +13,7 @@
   "register":
   [
     {
+      "id": 1,
       "cpf": "11111111111",
       "dataNascimento": "01/01/2000",
       "email": "email@email.com",
@@ -20,6 +21,7 @@
     },
     
     {
+      "id:" 2,
       "cpf": "22222222222",
       "dataNascimento": "02/02/2000",
       "email": "email2@email2.com",
